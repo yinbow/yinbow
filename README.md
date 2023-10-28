@@ -6,9 +6,9 @@
 
 :laughing: My research interests are **Vision Understanding**.
 
-❤️ My homepage: [HomePage]([http://www.fishworld.site/](https://yinbow.github.io/)).
+❤️ My homepage: [HomePage](https://yinbow.github.io/).
 
-:page_with_curl: All my research works: [Google scholar]([https://scholar.google.com/citations?user=EweNbRAAAAAJ&hl=zh-CN](https://scholar.google.cz/citations?view_op=list_works&hl=zh-CN&user=xr_FRrEAAAAJ)).
+:page_with_curl: All my research works: [Google scholar](https://scholar.google.com/citations?user=EweNbRAAAAAJ&hl=zh-CN](https://scholar.google.cz/citations?view_op=list_works&hl=zh-CN&user=xr_FRrEAAAAJ).
   
 :mailbox: Email contact: bowenyin@mail.nankai.edu.cn.
 
