@@ -11,10 +11,3 @@
 :page_with_curl: All my research works:  [Google scholar](https://scholar.google.cz/citations?view_op=list_works&hl=zh-CN&user=xr_FRrEAAAAJ).
 
 :mailbox: Email contact: bowenyin@mail.nankai.edu.cn.
-
-<br>
-
-<samp>
-
-<br>
-
