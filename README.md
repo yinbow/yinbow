@@ -14,7 +14,7 @@
 
 :space_invader: Co-authors: [Xuying Zhang](https://scholar.google.cz/citations?user=76_hOG0AAAAJ&hl=zh-CN), [Jiaolong Cao](), [Zhongyu Li](https://scholar.google.cz/citations?user=g6WHXrgAAAAJ&hl=zh-CN), and [Yuming Chen](https://scholar.google.cz/citations?user=EweNbRAAAAAJ&hl=zh-CN)
 
-:cherry_blossom: We are doing various RGBD and other RGBX (e.g., thermal) tasks. Welcome to communicate with us via bowenyn@mail.nankai.edu.cn.
+:cherry_blossom: We are doing various RGBD and other RGBX (e.g., thermal) researchs. Welcome to communicate with us via email.
 
 
  
